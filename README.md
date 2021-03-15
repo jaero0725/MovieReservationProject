@@ -2,7 +2,10 @@
 # MovieReservationProject
 Java Swing으로 만든 영화예매프로그램 <br/>
 
+<!--
+
 <img src="https://user-images.githubusercontent.com/55049159/111118766-996f2800-85ac-11eb-89b1-f584f17f36d5.png" width="700" heigth="400"><br/>
+-->
 
 ![영화예매 프로그램_1](https://user-images.githubusercontent.com/55049159/111118766-996f2800-85ac-11eb-89b1-f584f17f36d5.png)
 ![영화예매 프로그램_2](https://user-images.githubusercontent.com/55049159/111118772-9a07be80-85ac-11eb-9ed7-8c9674e57a81.png)
