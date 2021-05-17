@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/55049159/111118766-996f2800-85ac-11eb-89b1-f584f17f36d5.png" width="700" heigth="400"><br/>
 -->
 
-# :rocket: Java Swing으로 만든 영화예매프로그램 <br/>
+## :rocket: Java Swing으로 만든 영화예매프로그램 <br/>
 
 - KG 그룹에서 영화산업에 뛰어들면서 영화예약 관리프로그램 개발 필요하다는 상황을 가정하여 영화예약 프로그램을 만들어 보기로 함. 
 
