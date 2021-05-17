@@ -10,13 +10,18 @@
 <br>
 <br>
 
-##  :poultry_leg: 전체 프로젝트의 구조
+##  :rocket: 화면 구성도 
+
+<br>
+<br>
+
+##  :rocket: 화면 구성도 
 
 
 <br>
 <br>
 
-##  :poultry_leg: DB 구조
+##  :rocket: DB 구조
 ![image](https://user-images.githubusercontent.com/55049159/118472693-13a26100-b744-11eb-80b3-3573234e8bca.png)
 ![image](https://user-images.githubusercontent.com/55049159/118472736-26b53100-b744-11eb-91bb-851ac662953f.png)
 ![image](https://user-images.githubusercontent.com/55049159/118472841-451b2c80-b744-11eb-92da-e4b12ae59c4b.png)
@@ -24,7 +29,7 @@
 <br>
 <br>
 
-##  :poultry_leg: 프레젠테이션 파일 다운로드
+##  :rocket: 프레젠테이션 파일 다운로드
 
 :heavy_check_mark: [영화예매 프로그램.pdf](https://github.com/jaero0725/MovieReservationProject/files/6493121/default.pdf)
 
