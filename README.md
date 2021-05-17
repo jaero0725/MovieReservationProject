@@ -16,6 +16,15 @@
 <br>
 
 ##  :rocket: 화면 구성도 
+![image](https://user-images.githubusercontent.com/55049159/118473567-16518600-b745-11eb-89e3-7e4f428bd194.png)
+![image](https://user-images.githubusercontent.com/55049159/118473633-28332900-b745-11eb-9d61-699c3fb35638.png)
+![image](https://user-images.githubusercontent.com/55049159/118473779-51ec5000-b745-11eb-8644-c8e76a87db85.png)
+![image](https://user-images.githubusercontent.com/55049159/118473884-6b8d9780-b745-11eb-99cc-413fda41456d.png)
+![image](https://user-images.githubusercontent.com/55049159/118473925-7811f000-b745-11eb-8f7d-0efac128406a.png)
+![image](https://user-images.githubusercontent.com/55049159/118473985-89f39300-b745-11eb-878a-ce824256cedb.png)
+![image](https://user-images.githubusercontent.com/55049159/118474037-9aa40900-b745-11eb-9faa-fccf53f4a98d.png)
+![image](https://user-images.githubusercontent.com/55049159/118474086-a55e9e00-b745-11eb-8d34-90ab40e8271d.png)
+![image](https://user-images.githubusercontent.com/55049159/118474153-b6a7aa80-b745-11eb-9592-b85b43c25100.png)
 
 
 <br>
