@@ -12,7 +12,8 @@
 <br>
 <br>
 
-##  :rocket: 화면 구성도 
+##  :rocket: 시연 영상 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/55049159/118501214-73f4cb00-b763-11eb-8ad6-4e1c3f3a8d90.gif)
 
 <br>
 <br>
